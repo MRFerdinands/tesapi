@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRFerdinands/tesapi.git"
+  },
+  "author": "Nonz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRFerdinands/tesapi/issues"
+  },
+  "homepage": "https://github.com/MRFerdinands/tesapi#readme"
+}
